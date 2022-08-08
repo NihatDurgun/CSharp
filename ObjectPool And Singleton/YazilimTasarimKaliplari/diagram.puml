@@ -1,0 +1,18 @@
+﻿@startuml
+class Singleton {
+ {static}-Singeleton _instance
+ {static}-Object thisLock
+ {static}-Queue<Singleton> items
+ {static}-int MaxItem
+ {static}-int WaitingThreadCount
+ -Singleton()
+ {static} +Queue<Singleton> getQueue()
+ {static} +bool Generate()
+ {static} +Singeleton GetItem()
+}
+class Program{
+  {static}-int[] GenerateResult
+  {static} +void Main()
+  {static} +void generateSingleton()
+}
+@enduml

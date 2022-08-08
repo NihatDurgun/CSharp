@@ -1,0 +1,17 @@
+C:\Users\YağızhanŞimşek\Desktop\PROJE\QLearningApp\bin\Debug\QLearningApp.exe.config
+C:\Users\YağızhanŞimşek\Desktop\PROJE\QLearningApp\bin\Debug\QLearningApp.exe
+C:\Users\YağızhanŞimşek\Desktop\PROJE\QLearningApp\bin\Debug\QLearningApp.pdb
+C:\Users\YağızhanŞimşek\Desktop\PROJE\QLearningApp\obj\Debug\QLearningApp.csprojAssemblyReference.cache
+C:\Users\YağızhanŞimşek\Desktop\PROJE\QLearningApp\obj\Debug\QLearningApp.csproj.CoreCompileInputs.cache
+C:\Users\YağızhanŞimşek\Desktop\PROJE\QLearningApp\obj\Debug\QLearningApp.exe
+C:\Users\YağızhanŞimşek\Desktop\PROJE\QLearningApp\obj\Debug\QLearningApp.pdb
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\bin\Debug\QLearningApp.exe.config
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\bin\Debug\QLearningApp.exe
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\bin\Debug\QLearningApp.pdb
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\obj\Debug\QLearningApp.csprojAssemblyReference.cache
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\obj\Debug\QLearningApp.csproj.CoreCompileInputs.cache
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\obj\Debug\QLearningApp.exe
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\obj\Debug\QLearningApp.pdb
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\obj\Debug\QLearningApp.Main.resources
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\obj\Debug\QLearningApp.csproj.GenerateResource.cache
+C:\Users\emren\source\repos\QLearningApp\QLearningApp\obj\Debug\QLearningApp.Start.resources
